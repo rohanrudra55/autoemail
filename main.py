@@ -4,7 +4,7 @@ class email:
     def __init__(self):
         self.port=465
         self.username="snowwing14@gmail.com"
-        self.password="rohan7602505902r"
+        self.password="***************"
         self.address="snowwing140@gmail.com"
         self.message="Hello"
 
